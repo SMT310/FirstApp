@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="hello_world">Xin Chao...</string>
+    <string name="hello_world2">xin chao lan 2...</string>
+    <string name="requirement">Please input...</string>
+    <string name="requirement1">Pass input...</string>
+    <string name="requirement2">Phone input...</string>
+
+</resources>
